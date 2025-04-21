@@ -15,4 +15,4 @@ This is a simple login form project created to practice and learn **Tailwind CSS
 
 ## 📸 Preview
 
-![Form Preview](![image](https://github.com/user-attachments/assets/baf53917-9b8a-4ffb-a045-3004a3b6d99a))
+![Preview](https://github.com/user-attachments/assets/ed849037-a826-4a95-9ae1-9f4efeba428f)
